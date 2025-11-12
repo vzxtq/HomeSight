@@ -1,7 +1,8 @@
 # HomeSight
 
 **HomeSight** is a cloud-based IoT platform for **real-time monitoring of devices, spaces, and processes**.  
-The platform supports **both physical and virtual sensors**, enabling **rapid scaling of your IoT network** without expensive hardware.
+The platform supports **both physical and virtual sensors**, enabling **rapid scaling of your IoT network** without expensive hardware.  
+It **uses a dashboard frontend, provides usage analytics, and allows manual device on/off control**.
 
 ---
 
@@ -13,15 +14,14 @@ Basic platform architecture:
 - Data flow to the cloud  
 - Data processing and visualization  
 
-![C1 Diagram](<img width="880" height="1121" alt="C1Diagram-Copy of Page-1 drawio" src="https://github.com/user-attachments/assets/84ec7279-85bb-493b-afec-faaac83b70ea" />)
+![C1 Diagram](https://github.com/user-attachments/assets/84ec7279-85bb-493b-afec-faaac83b70ea)
 
 ---
 
 ### **C2 Diagram**
 Extended architecture with detailed components and services.  
 
-![C2 Diagram](<img width="242" height="652" alt="C1Diagram-Page-1 drawio" src="https://github.com/user-attachments/assets/9369564e-3c0f-4b67-afba-25cc58c6ecbc" />)
-
+![C2 Diagram](https://github.com/user-attachments/assets/9369564e-3c0f-4b67-afba-25cc58c6ecbc)
 
 ---
 
@@ -31,4 +31,5 @@ Extended architecture with detailed components and services.
 - **Scalable IoT network**  
 - **Real-time monitoring of processes and spaces**  
 - **Cloud data processing and visualization**  
-- **Notifications and analytics support**
+- **Notifications and analytics support**  
+- **Manual device control (on/off)**  
