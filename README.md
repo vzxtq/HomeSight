@@ -14,14 +14,14 @@ Basic platform architecture:
 - Data flow to the cloud  
 - Data processing and visualization  
 
-![C1 Diagram](https://github.com/user-attachments/assets/84ec7279-85bb-493b-afec-faaac83b70ea)
+![C1 Diagram](https://github.com/user-attachments/assets/9369564e-3c0f-4b67-afba-25cc58c6ecbc)
 
 ---
 
 ### **C2 Diagram**
 Extended architecture with detailed components and services.  
 
-![C2 Diagram](https://github.com/user-attachments/assets/9369564e-3c0f-4b67-afba-25cc58c6ecbc)
+![C2 Diagram](https://github.com/user-attachments/assets/84ec7279-85bb-493b-afec-faaac83b70ea)
 
 ---
 
